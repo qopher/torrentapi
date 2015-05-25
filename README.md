@@ -1,18 +1,12 @@
-#Torrent Api
+#Torrent API
 
-This is a simple project for integrating with the torrentapi which provides api access to some of the most popular tv groups in the "torrent world"
-If you want to request/suggest any features to the API please create a new issue
+This is a simple project for integrating with the torrentapi which provides API access to some of the most popular tv groups in the "torrent world". 
+If you want to request/suggest any features to the API please create a new issue.  
 
-Current "apps" that have the api integrated are :
-
-https://github.com/SiCKRAGETV/SickRage maintainer https://github.com/abeloin
-
-https://github.com/SchizoDuckie/DuckieTV maintainer https://github.com/SchizoDuckie
-
-https://github.com/Sonarr/Sonarr maintainer https://github.com/Taloth
-
-https://github.com/SickGear/SickGear maintainer https://github.com/JackDandy
-
-https://github.com/Flexget/Flexget maintainer https://github.com/cvium
-
-https://github.com/zone117x/Jackett maintainer https://github.com/zone117x
+Current "apps" with the API integrated are :  
+* [SickRage](https://github.com/SiCKRAGETV/SickRage) maintainer [abeloin](https://github.com/abeloin), [fernandog](https://github.com/fernandog)
+* [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) maintainer [SchizoDuckie](https://github.com/SchizoDuckie)
+* [Sonarr](https://github.com/Sonarr/Sonarr) maintainer [Taloth](https://github.com/Taloth)
+* [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy)
+* [Flexget](https://github.com/Flexget/Flexget) maintainer [cvium](https://github.com/cvium)
+* [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x)
