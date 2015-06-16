@@ -10,3 +10,4 @@ Current "apps" with the API integrated are :
 * [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy)
 * [Flexget](https://github.com/Flexget/Flexget) maintainer [cvium](https://github.com/cvium)
 * [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x)
+* [script.pulsar.rarbg-mc](https://github.com/mancuniancol/script.pulsar.rarbg-mc) maintainer [mancuniancol](https://github.com/mancuniancol)
