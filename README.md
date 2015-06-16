@@ -11,3 +11,4 @@ Current "apps" with the API integrated are :
 * [Flexget](https://github.com/Flexget/Flexget) maintainer [cvium](https://github.com/cvium)
 * [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x)
 * [script.pulsar.rarbg-mc](https://github.com/mancuniancol/script.pulsar.rarbg-mc) maintainer [mancuniancol](https://github.com/mancuniancol)
+* [kodi.rarbg](https://github.com/romanvm/kodi.rarbg) maintainer [romanvm](https://github.com/romanvm)
