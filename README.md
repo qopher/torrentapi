@@ -3,7 +3,7 @@
 This is a simple project for integrating with the torrentapi which provides API access to some of the most popular tv groups in the "torrent world". 
 If you want to request/suggest any features to the API please create a new issue.  
 
-Current "apps" with the API integrated are (in alphabetical order) :  
+Current "apps" with the API integrated/pending integration are (in alphabetical order) :  
 * [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) maintainer [SchizoDuckie](https://github.com/SchizoDuckie) [api version 2]
 * [Flexget](https://github.com/Flexget/Flexget) maintainer [cvium](https://github.com/cvium) [api version 2]
 * [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x) [api version 1]
@@ -11,6 +11,8 @@ Current "apps" with the API integrated are (in alphabetical order) :
 * [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy) [api version 2]
 * [SickRage](https://github.com/SiCKRAGETV/SickRage) maintainer [abeloin](https://github.com/abeloin), [fernandog](https://github.com/fernandog) [api version 2]
 * [Sonarr](https://github.com/Sonarr/Sonarr) maintainer [Taloth](https://github.com/Taloth) [api version 2]
+
+Current "mobile apps" with the API integrated/pending integration are (in alphabetical order) :  
 * [Transdroid-Search](https://github.com/erickok/transdroid-search) maintainer [erickok](https://github.com/erickok) [pending integration]
 
 Current "plugin-ins/add-on scripts" with the API integrated are :  
