@@ -11,6 +11,7 @@ Current "apps" with the API integrated are (in alphabetical order) :
 * [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy) [api version 2]
 * [SickRage](https://github.com/SiCKRAGETV/SickRage) maintainer [abeloin](https://github.com/abeloin), [fernandog](https://github.com/fernandog) [api version 2]
 * [Sonarr](https://github.com/Sonarr/Sonarr) maintainer [Taloth](https://github.com/Taloth) [api version 2]
+* [Transdroid-Search](https://github.com/erickok/transdroid-search) maintainer [erickok](https://github.com/erickok) [pending integration]
 
 Current "plugin-ins/add-on scripts" with the API integrated are :  
 * [kodi.rarbg](https://github.com/romanvm/kodi.rarbg) maintainer [romanvm](https://github.com/romanvm) [pending integration]
