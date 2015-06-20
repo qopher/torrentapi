@@ -13,7 +13,7 @@ Current "apps" with the API integrated/pending integration are (in alphabetical 
 * [Sonarr](https://github.com/Sonarr/Sonarr) maintainer [Taloth](https://github.com/Taloth) [api version 2]
 
 Current "mobile apps" with the API integrated/pending integration are (in alphabetical order) :  
-* [Transdroid-Search](https://github.com/erickok/transdroid-search) maintainer [erickok](https://github.com/erickok) [pending integration]
+* [Transdroid-Search](https://github.com/erickok/transdroid-search) maintainer [erickok](https://github.com/erickok) [api version 2]
 
 Current "plugin-ins/add-on scripts" with the API integrated are :  
 * [kodi.rarbg](https://github.com/romanvm/kodi.rarbg) maintainer [romanvm](https://github.com/romanvm) [pending integration]
