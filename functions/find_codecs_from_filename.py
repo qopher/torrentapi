@@ -14,7 +14,10 @@ def find_info(filename):
     a = re.search("(?i)(1080p)",filename);
     if a:
         resolution = '1080p';
-
+    a = re.search("(?i)(2160p)",filename);
+    if a:
+        resolution = '2160p';
+        
     source = 'hdtv';
     s = re.search("(?i)(WEB-DL|WEB_DL|WEB\.DL)",filename);
     if s:
