@@ -5,7 +5,7 @@ def find_info(filename):
         codec = 'x265';
     v = re.search("(?i)(xvid)",filename);
     if v:
-        codec = 'x265';
+        codec = 'xvid';
 
     resolution = 'sd';
     a = re.search("(?i)(720p)",filename);
@@ -22,7 +22,16 @@ def find_info(filename):
     s = re.search("(?i)(WEBRIP)",filename);
     if s:
         source = 'webrip';
-
+    s = re.search("(?i)(BRRIP|BDRIP|BluRay)",filename);
+    if s:
+        source = 'brrip';
+    s = re.search("(?i)BluRay(.*)REMUX",filename);
+    if s:
+        source = 'bluray-remux';
+    s = re.search("(?i)BluRay(.*)\.(AVC|VC-1)\.",filename);
+    if s:
+        source = 'bluray-full';
+        
     return_info = []
     return_info.append(codec);
     return_info.append(resolution);
