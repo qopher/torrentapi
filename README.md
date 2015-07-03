@@ -4,6 +4,7 @@ This is a simple project for integrating with the torrentapi which provides API 
 If you want to request/suggest any features to the API please create a new issue.  
 
 Current "apps" with the API integrated/pending integration are (in alphabetical order) :  
+* [CouchPotato](https://github.com/RuudBurger/CouchPotatoServer) maintainer [KrunchMuffin](https://github.com/KrunchMuffin) [api version 2]
 * [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) maintainer [SchizoDuckie](https://github.com/SchizoDuckie) [api version 2]
 * [Flexget](https://github.com/Flexget/Flexget) maintainer [cvium](https://github.com/cvium) [api version 2]
 * [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x) [api version 1]
