@@ -28,6 +28,9 @@ def find_info(filename):
     s = re.search("(?i)(BRRIP|BDRIP|BluRay)",filename);
     if s:
         source = 'brrip';
+    s = re.search("(?i)(DVDRip|DVD-Rip)",filename);
+    if s:
+        source = 'dvdrip';
     s = re.search("(?i)BluRay(.*)REMUX",filename);
     if s:
         source = 'bluray-remux';
