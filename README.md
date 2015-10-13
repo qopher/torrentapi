@@ -16,6 +16,9 @@ Current "apps" with the API integrated/pending integration are (in alphabetical 
 Current "mobile apps" with the API integrated/pending integration are (in alphabetical order) :  
 * [Transdroid-Search](https://github.com/erickok/transdroid-search) maintainer [erickok](https://github.com/erickok) [api version 2]
 
+Current language libraries with the API integrated ( in alphabetical order ) :
+* [Perl](https://github.com/pacoesteban/Rarbg-torrentapi) Rarbg::torrentapi maintainer [pacoesteban](https://github.com/pacoesteban) [api version 2]
+
 Current "plugin-ins/add-on scripts" with the API integrated are :  
 * [kodi.rarbg](https://github.com/romanvm/kodi.rarbg) maintainer [romanvm](https://github.com/romanvm) [api version 2]
 * [script.pulsar.rarbg-mc](https://github.com/mancuniancol/script.pulsar.rarbg-mc) maintainer [mancuniancol](https://github.com/mancuniancol) [api version 2]
