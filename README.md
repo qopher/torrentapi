@@ -18,7 +18,11 @@ Current "mobile apps" with the API integrated/pending integration are (in alphab
 
 Current language libraries with the API integrated ( in alphabetical order ) :
 * [Perl](https://github.com/pacoesteban/Rarbg-torrentapi) Rarbg::torrentapi maintainer [pacoesteban](https://github.com/pacoesteban) [api version 2]
+* [Java](https://github.com/Janoz-NL/torrentlib) Java torrentlib maintainer [Janoz-NL](https://github.com/Janoz-NL/) [api version 2]
 
 Current "plugin-ins/add-on scripts" with the API integrated are :  
 * [kodi.rarbg](https://github.com/romanvm/kodi.rarbg) maintainer [romanvm](https://github.com/romanvm) [api version 2]
 * [script.pulsar.rarbg-mc](https://github.com/mancuniancol/script.pulsar.rarbg-mc) maintainer [mancuniancol](https://github.com/mancuniancol) [api version 2]
+
+Current CLI only apps with the API integrated are :
+* [cinemaflix](https://github.com/walidsa3d/cinemaflix) maintainer [walidsa3d](https://github.com/walidsa3d/) [api version 2]
