@@ -9,6 +9,7 @@ Current "apps" with the API integrated/pending integration are (in alphabetical 
 * [Flexget](https://github.com/Flexget/Flexget) maintainer [cvium](https://github.com/cvium) [api version 2]
 * [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x) [api version 1]
 * [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) maintainer [Hellowlol](https://github.com/Hellowlol) [api version 2]
+* [Media Center Master](https://github.com/psouza4/mediacentermaster) maintainer [psouza4](https://github.com/psouza4) [api version 2]
 * [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy) [api version 2]
 * [SickRage](https://github.com/SiCKRAGETV/SickRage) maintainer [abeloin](https://github.com/abeloin), [fernandog](https://github.com/fernandog) [api version 2]
 * [Sonarr](https://github.com/Sonarr/Sonarr) maintainer [Taloth](https://github.com/Taloth) [api version 2]
