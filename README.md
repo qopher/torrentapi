@@ -7,7 +7,6 @@ Current "apps" with the API integrated/pending integration are (in alphabetical 
 * [CouchPotato](https://github.com/RuudBurger/CouchPotatoServer) maintainer [KrunchMuffin](https://github.com/KrunchMuffin) [api version 2]
 * [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) maintainer [SchizoDuckie](https://github.com/SchizoDuckie) [api version 2]
 * [Flexget](https://github.com/Flexget/Flexget) maintainer [cvium](https://github.com/cvium) [api version 2]
-* [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x) [api version 1]
 * [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) maintainer [Hellowlol](https://github.com/Hellowlol) [api version 2]
 * [Media Center Master](https://github.com/psouza4/mediacentermaster) maintainer [psouza4](https://github.com/psouza4) [api version 2]
 * [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy) [api version 2]
@@ -28,3 +27,6 @@ Current "plugin-ins/add-on scripts" with the API integrated are :
 
 Current CLI only apps with the API integrated are :
 * [cinemaflix](https://github.com/walidsa3d/cinemaflix) maintainer [walidsa3d](https://github.com/walidsa3d/) [api version 2]
+
+Deprecated apps , no longer mantained or using deprecated API versions :
+* [Jackett](https://github.com/zone117x/Jackett) maintainer [zone117x](https://github.com/zone117x) [api version 1]
