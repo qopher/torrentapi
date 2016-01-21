@@ -10,7 +10,7 @@ Current "apps" with the API integrated/pending integration are (in alphabetical 
 * [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) maintainer [Hellowlol](https://github.com/Hellowlol) [api version 2]
 * [Media Center Master](https://github.com/psouza4/mediacentermaster) maintainer [psouza4](https://github.com/psouza4) [api version 2]
 * [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy) [api version 2]
-* [SickRage](https://github.com/SiCKRAGETV/SickRage) maintainer [abeloin](https://github.com/abeloin), [fernandog](https://github.com/fernandog) [api version 2]
+* [SickRage](https://github.com/SickRage/SickRage) maintainer [miigotu](https://github.com/miigotu), [fernandog](https://github.com/fernandog) [api version 2]
 * [Sonarr](https://github.com/Sonarr/Sonarr) maintainer [Taloth](https://github.com/Taloth) [api version 2]
 
 Current "mobile apps" with the API integrated/pending integration are (in alphabetical order) :  
