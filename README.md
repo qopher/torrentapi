@@ -17,6 +17,7 @@ Current "mobile apps" with the API integrated/pending integration are (in alphab
 * [Transdroid-Search](https://github.com/erickok/transdroid-search) maintainer [erickok](https://github.com/erickok) [api version 2]
 
 Current language libraries with the API integrated ( in alphabetical order ) :
+* [Go](https://github.com/qopher/go-torrentapi) Golang torrentapi package maintainer [qopher](https://github.com/qopher) [api version 2]
 * [Perl](https://github.com/pacoesteban/Rarbg-torrentapi) Rarbg::torrentapi maintainer [pacoesteban](https://github.com/pacoesteban) [api version 2]
 * [Java](https://github.com/Janoz-NL/torrentlib) Java torrentlib maintainer [Janoz-NL](https://github.com/Janoz-NL/) [api version 2]
 
